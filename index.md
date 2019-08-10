@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is ROIL?
-permalink: /about/
+permalink: /
 ---
 
 **(Under Construction: ROIL is under active development, but is not yet ready
