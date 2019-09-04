@@ -15,7 +15,7 @@ permalink: /locating_feeds/
 
 It is easy! And what you discover makes ROIL better for everyone!
 
-### Discover By URL
+### Discover By URL (recommended)
 
 URL example: `https://www.example.com/abcdefg`.  Or `http://...`
 
@@ -33,7 +33,7 @@ discovered once to be available forever.
 
 ### Discover Without a URL
 
-You also **discover** certain feeds without a URL. 
+You can also **discover** certain feeds without a URL. 
 
 * Specify the “Source”, e.g. YouTube, Twitter, Reddit, etc. 
 * Type the user name, channel, ID, etc. 
