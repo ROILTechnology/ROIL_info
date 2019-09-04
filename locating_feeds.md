@@ -33,7 +33,7 @@ discovered once to be available forever.
 
 ### Discover Without a URL
 
-You can also **discover** certain feeds without a URL. 
+You can also **discover** certain feeds without a URL.
 
 * Specify the “Source”, e.g. YouTube, Twitter, Reddit, etc. 
 * Type the user name, channel, ID, etc. 
