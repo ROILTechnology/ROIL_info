@@ -38,3 +38,7 @@ You can also **discover** certain feeds without a URL.
 * Specify the “Source”, e.g. YouTube, Twitter, Reddit, etc. 
 * Type the user name, channel, ID, etc. 
 * If the feed doesn’t appear, enter the URL instead (see above).
+
+### Hosted Content Tips
+
+[Medium.com](https://help.medium.com/hc/en-us/articles/214874118-RSS-feeds)
