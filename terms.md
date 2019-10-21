@@ -8,7 +8,7 @@ These terms of service apply to your use of the Roil Mobile App for iOS, the Roi
 
 ROIL will pass through to you various items coming from outside data sources, such as RSS feeds.  ROIL makes no warranties whatsoever as to these items.  Without limiting the foregoing, ROIL specifically disclaims any warranties of the items' accuracy, age-appropriateness, offensiveness, or copyright status.  Because ROIL does not control the content delivered to it by feeds, ROIL must parse these inputs.  ROIL makes no warranty that this parsing will be correct.
 
-If you register a famous name on ROIL, but do not legitmately speak for that famous person/entity, ROIL may terminate the account, or transfer control of it.
+If you register a famous name on ROIL, but do not legitimately speak for that famous person/entity, ROIL may terminate the account, or transfer control of it.
 
 You are granted a license to use ROIL for the purpose of personal consumption/enjoyment of the individual items presented by ROIL.  You are not permitted to use your access to ROIL for malicious purposes, which include, but are not limited to, (a) attempting to penetrate any ROIL database in a manner different from usual api usage, or through strategies including, but not limited to SQL-injection, (b) attempting to penetrate or obtain privileges over any ROIL backend computer, or (c) bombarding ROIL's backend with superhuman frontend demands.
 
