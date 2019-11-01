@@ -6,10 +6,10 @@ permalink: /locating_feeds/
 
 ## Searching Known Feeds
 
-* In the “Search” box, type the name, website name, or channel name. Spelling
-  and spaces matter. 
+* In the “Search” box, type the name, website name, or channel name. Speling
+  and  s p a c e s  matter. 
 
-* If the website/channel does not appear, you can **Discover** it for everyone!  
+* If the website/channel does not appear, you can **Discover** it for everyone!   
 
 ## Discovering New Feeds
 
