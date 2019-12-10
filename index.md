@@ -4,6 +4,8 @@ title: What is ROIL?
 permalink: /
 ---
 
+(ROIL is a service coming soon.)
+
 ROIL is a better way to enjoy content from across the Internet. Instead of browsing from one website to another, ROIL lets you follow many feeds from across the web: YouTube channels, podcasts, SubReddits, Twitter accounts, websites/blogs, etc.  It then gathers all this content for you to browse in one place: its fun ROIL scroll. ROIL uses a technology called "RSS feeds" to gather the latest content from websites or specific content creators you want to follow.
 
 ROIL will also recommend items it thinks you will enjoy. The goal is to introduce you to new and interesting content you might otherwise not know about.
