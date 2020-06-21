@@ -4,7 +4,7 @@ title: ROIL Terms of Service ("Terms")
 permalink: /terms/
 ---
 
-*Last updated June 20, 2020. V1.00. Changes will be logged.*
+*Last updated June 20, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the “Terms”) are the legal framework that governs your rights and obligations in using the ROIL mobile applications and in accessing roil.com (collectively, the “Service”). They are the sole agreement between Roil Technology, LLC, (“ROIL”) a Florida (USA) limited liability company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida 33607, yourself, and other users of the Service.  By using the Service, and/or registering for an account on it you agree to these terms and understand that they are binding.  Our [[Understanding ROIL]] page defines important concepts used by ROIL, such as “feeds” and “groups,” and these terms of service should be understood in light of these definitions, which are hereby incorporated by reference.  ROIL also adheres to a [privacy policy]({% link privacy-policy.md %}), which is hereby incorporated by reference.
 
@@ -27,7 +27,7 @@ In order to use the Services, you will need to abide by our eligibility requirem
 
 Our policy is that each user should have their own account. Sharing your login credentials means that you are providing another person control over your contractual rights and over your relationship with us. Therefore, shared accounts are prohibited.  If you are a legal entity, you may share the login credentials between different employees or agents, but you assume full liability for their actions.  You agree to secure your account by choosing a strong password, not sharing that password with others, and not reusing it on different accounts.
 
-ROIL provides the Service free of charge, although paid tiers of service may be offered in the future.  ROIL may show you advertisements, and may facilitate your access to third-party content which, itself, contains advertisements with which ROIL has no affiliation, and for which ROIL assumes no responsibility.  Advertisements inserted by ROIL will be clearly marked as such, but ROIL makes no claims or warranties as to advertisements contained in outside content to which ROIL facilitates your access.  ROIL retains some data relating to your use of the Service, in accordance with our [privacy policy]({% link privacy-policy.md %}), .
+ROIL provides the Service free of charge, although paid tiers of service may be offered in the future.  ROIL may show you advertisements, and may facilitate your access to third-party content which, itself, contains advertisements with which ROIL has no affiliation, and for which ROIL assumes no responsibility.  Advertisements inserted by ROIL will be clearly marked as such, but ROIL makes no claims or warranties as to advertisements contained in outside content to which ROIL facilitates your access.  ROIL retains some data relating to your use of the Service, in accordance with our [privacy policy]({% link privacy-policy.md %}).
 
 Through the Service, you may interact with content hosted on the Service, as well as content that the Service links you to, but that is hosted on another computer, unaffiliated with the Service.  Such content may include copyrighted material, trademarks, service marks or logos.  Access to such content or intellectual property through the Service should not be taken to imply that the Service as an affiliation with, ownership of, or license to this intellectual property.  Content is the responsibility of the person or entity that provides it to the Service.  ROIL is under no obligation to host or serve content.  You may use the Service to access content solely for your personal, non-commercial use.  Using the Service does not give you ownership of or rights to any aspect of the Service, including user names or any other content posted by others or the Service.
 
@@ -63,3 +63,47 @@ We will respond to allegations of copyright violations in accordance with the Di
 If you believe that any content available through the Service infringes upon your rights, send a DMCA-compliant notification (see 17 U.S.C. Section 512 for further detail) to notices@roil.com. Upon receiving a DMCA complaint, we will follow the process set forth in the DMCA, which may involves deleting or restoring the content. Please note that our moderation, restoration or deletion of content does not mean that we are liable for the content in any form or under any law.  Electronically fill out and submit [this form to make a notification under DMCA 512(c)](/word_templates/ROIL_512c_form.docx).
 
 By law, DMCA-compliant notifications require: (1) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. (2) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site. (3) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. The best way to identify content available on the Service is typically to access its “Details” pane, by clicking the item’s show-more button (rendered as an ellipses (…)), and selecting the “Details” option.  (In the Roundup view of comments, select the comment first.)  This will show a pop-up alert, which includes the item’s unique id within the Service. (4) Information reasonably sufficient to permit us to contact you (the complaining party), such as an address, telephone number, and, if available, an electronic mail address at which you (the complaining party) may be contacted. (5) A statement that you (the complaining party) have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. (6) A statement that the information in the notification is accurate, and under penalty of perjury, that you (the complaining party) are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.  (7) Provide information, if possible, sufficient to permit us to notify the user(s) who posted the content that allegedly contains infringing material.  (This item 7 is optional, and is not required by the DMCA. However, providing this information may preempt any potential need for follow-up questions.)
+
+Send the DMCA Notice to our Designated Agent at:
+```
+Roil Technology, LLC
+Attn: Designated Copyright Agent
+Jonathan Levy
+1300 N. Westshore Blvd., Ste. 220
+Tampa FL 33607
+notices@roil.com
+```
+
+Any person who knowingly materially misrepresents that material or an activity is infringing or that any material or activity was removed or disabled by mistake or misidentification, shall be liable for any damages, including costs and attorneys’ fees incurred by ROIL in removing or disabling access to the material or activity claimed to be infringing or in replacing the removed material or enabling access to it.
+
+## Other Notifications
+
+You may find the need to notify ROIL as to other issues, such as violation of Community Standards, or intellectual property violations other than those covered by DMCA 512(c).  To do so, you should use [this form](/word_templates/ROIL_other_notification_form.docx), and the Designated Agent contact information above.  The notification procedures under this section are not intended for, and may not be used for, notice of process for any legal proceeding.  Legal-proceeding notices should be furnished as provided in applicable law.
+
+## Miscellaneous
+
+THE SERVICE IS PROVIDED ON AN “AS IS,” “AS AVAILABLE” BASIS.  YOUR USE OF THE SERVICE IS AT YOUR OWN RISK AND UNDER YOUR OWN LIABILITY.  ROIL MAKES NO WARRANTIES ABOUT THE SERVICE.  THIS DISCLAIMER INCLUDES ANY WARRANTIES ABOUT: (A) CONTENT PROVIDED BY OR ACCESSED THROUGH THE SERVICE; (B) ACCESSABILITY, ACCURACY, RELIABILITY, AVAILABILITY, OR QUALITY OF ANY ASPECT OF THE SERVICE; OR (C) ROIL’S ENFORCEMENT, OR LACK OF ENFORCEMENT, OF ITS COMMUNITY STANDARDS.
+
+ROIL, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS WILL NOT BE RESPONSIBLE FOR ANY DAMAGES (WHETHER THROUGH A CLAIM UNDER WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORIES, AND WHETHER THE CLAIMED DAMAGES ARE DIRECT, CONSEQUENTIAL, PUNITIVE, EXPECTANCY, RESTITUTIONARY OR OTHER) ARISING FROM YOUR USE OF, OR RELATIONSHIP TO, THE SERVICES (INCLUDING RELATED TO ANY MALICIOUS CODE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY).  IN THE EVENT THAT, NOTWITHSTANDING THE FOREGOING, A CLAIM FOR LIABILITY IS SUSTAINED, ROIL, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS SHALL NOT HAVE TOTALLY LIABILITY IN EXCESS OF THE GREATER OF: (1) THE AMOUNT OF REVENUE THAT ROIL HAS PAID TO YOU IN RELATION TO THE SERVICE IN THE 12 MONTHS PRIOR TO YOUR WRITTEN NOTIFICATION TO ROIL OF THE CLAIM; OR (2) $500 US.  YOU AGREE THAT ANY CLAIM ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OR ELSE BE PERMANENTLY BARRED.
+
+You hereby warrant and agree to hold us harmless and to indemnify us for any damage, loss, expense, legal expense or cost incurred as a result of your use of the Service in violation of these Terms, including any false representation.
+
+ROIL has the right to terminate or suspend your use of the Service or to terminate or suspend the Service at any time.  ROIL reserves the right to decide whether material or activity violates our Terms or community standards.
+
+Any notices we are to provide you under these Terms we may provide by either (1) sending you and in-app message, or (2) sending an email to the address (if any) that you provided for your account.  If you set an email address for your ROIL account, then you agree that ROIL may (but is not obligated to) communicate with you, for all purposes, by sending to that email address, and that ROIL is under no obligation to confirm the email address, or confirm receipt of communications to it.
+
+The laws of the state of Florida (without regard to its choice-of-law provisions) shall exclusively govern these Terms and the relationship created by them. Any dispute you may raise against us must be brought solely in the competent courts of Hillsborough County, Florida.  Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where one claimant acts in a representative capacity shall not be brought, nor shall individual proceedings be combined without the consent of all parties.
+
+Any provision of these Terms which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be deemed replaced with a valid and enforceable provision that as nearly as possible effectuates the provision’s intent as expressed in these Terms.
+
+Software used in the Service may be subject to an open-source license which overrides some of these Terms. 
+
+The Service contains links to third-party providers, and you should be aware that these third-parties are not owned or controlled by ROIL, nor typically affiliated with ROIL.  ROIL assumes no responsibility for such third-party online services, and you are encouraged to read any relevant terms and privacy policies applicable to these third-party providers.
+
+No delay or omission in the exercise or enforcement of any right or remedy hereunder shall be construed as a waiver of such right or remedy.  All remedies, rights, undertakings, obligations, and agreements contained herein shall be cumulative and not mutually exclusive, and in addition to all other rights and remedies which either party possesses at law or in equity.
+
+As used herein, the term “include” or “including” means “including but not limited to.”
+
+If you register a famous name on ROIL, but do not legitimately speak for that famous person/entity, ROIL may terminate the account, or transfer control of it.  If you create a public group on ROIL using a common term, but do not, as evaluated in ROIL's discretion, adequately maintain it as a public group, ROIL reserves the right to change the name of your group, so as to free up the term to be used otherwise.
+
+In the event that these Terms describe features of the Service that have not been developed yet, or become discontinued, this shall not affect the binding nature of these Terms, in general.
