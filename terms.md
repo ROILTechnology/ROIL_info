@@ -6,7 +6,7 @@ permalink: /terms/
 
 *Last updated June 20, 2020. v1.00. Changes will be logged.*
 
-These terms of service (the “Terms”) are the legal framework that governs your rights and obligations in using the ROIL mobile applications and in accessing roil.com (collectively, the “Service”). They are the sole agreement between Roil Technology, LLC, (“ROIL”) a Florida (USA) limited liability company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida 33607, yourself, and other users of the Service.  By using the Service, and/or registering for an account on it you agree to these terms and understand that they are binding.  Our [[Understanding ROIL]] page defines important concepts used by ROIL, such as “feeds” and “groups,” and these terms of service should be understood in light of these definitions, which are hereby incorporated by reference.  ROIL also adheres to a [privacy policy]({% link privacy-policy.md %}), which is hereby incorporated by reference.
+These terms of service (the “Terms”) are the legal framework that governs your rights and obligations in using the ROIL mobile applications and in accessing roil.com (collectively, the “Service”). They are the sole agreement between Roil Technology, LLC, (“ROIL”) a Florida (USA) limited liability company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida 33607, yourself, and other users of the Service.  By using the Service, and/or registering for an account on it you agree to these terms and understand that they are binding.  General information about ROIL's Service can be found on our [[Understanding ROIL]] page.  ROIL also adheres to a [privacy policy]({% link privacy-policy.md %}), which is hereby incorporated by reference.
 
 ## Feeds
 
