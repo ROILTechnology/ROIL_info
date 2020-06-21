@@ -4,6 +4,8 @@ title: ROIL Resources
 permalink: /roil_resources/
 ---
 
+[Locating Feeds]({{ site.baseurl }}/locating_feeds)
+
 [ROIL Android app](https://play.google.com/store/apps/details?id=com.roil.roil)
 
 [Installing ROIL on iPhone/iPad](https://www.youtube.com/watch?v=Q_eG_Zz5jwE)
