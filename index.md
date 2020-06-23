@@ -1,53 +1,81 @@
 ---
 layout: page
-title: What is ROIL?
+title: Understanding ROIL
 permalink: /
 ---
 
 (ROIL is a service coming soon.)
 
-ROIL is a better way to enjoy content from across the Internet. Instead of browsing from one website to another, ROIL lets you follow many feeds from across the web: YouTube channels, podcasts, SubReddits, Twitter accounts, websites/blogs, etc.  It then gathers all this content for you to browse in one place: its fun ROIL scroll. ROIL uses a technology called "RSS feeds" to gather the latest content from websites or specific content creators you want to follow.
+ROIL is a better way to enjoy content from across the Internet. Instead of browsing from one website to another, ROIL lets you follow many feeds from across the web: podcasts, YouTube channels, subreddits, websites/blogs, and more. It then connects to all this content for you to browse in one place: your fun ROIL scroll. ROIL uses a technology called “feeds” (such as RSS) to gather the latest content from websites or specific content creators you want to view.
 
 ROIL will also recommend items it thinks you will enjoy. The goal is to introduce you to new and interesting content you might otherwise not know about.
 
-ROIL is quite simply a way to find what you want on the internet without having to search in many different places. You no longer have to go find newly posted content because ROIL delivers it to you.
+ROIL is quite simply a way to find what you want on the internet without having to search in many different places. You no longer have to go find newly posted content because ROIL connects you to it.
 
 # FAQs
-
-## What is RSS?
-
-RSS means “Real Simple Syndication”  and Roil uses it to deliver you the latest articles, videos, and podcasts from some of your favorite websites or content creators. Instead of manually browsing to different pages on the Internet for newly posted material, the content you are looking for comes to you. An RSS feed is just a text file that provides updated information in a computer readable format. Roil collects the RSS feeds from the websites or content creators you want to follow and then converts it into text, audio or video content and puts it into your Roil scroll.
 
 ## What does ROIL cost?
 
 ROIL is completely free.
 
-## How do I follow someone on ROIL?
+## How do I register?
 
-1. Click on the Follow tab at the bottom of the page.
-2. In the Search box at the top, search for the creator by their name, channel, or most effectively by entering the web URL where they post their content. ROIL should now find that feed and it will appear under “Discovered Feeds”.
-3. Finally, click the “Follow” button. Content from that creator/website/feed will now start arriving in your “Scroll” page.
+In order to register you will need to provide a username, which is unique, and a password. If you would like the option to restore your account if you forgot your password, you may provide us an email address.
 
-## I searched for a feed and ROIL didn’t find it. What do I do?
+## What is a feed?
 
-1. Go to the website you want to follow. For example, if it is a YouTuber, go to the YouTuber’s channel page.
-2. Copy the link and paste it into the ROIL search box. Click “Discover”.
-3. ROIL should now find that feed and it will appear under “Discovered Feeds”.
-4. Click the “Follow” button. Content from that creator/website/feed will now start arriving in your “Browse” page.
+Feeds are the basis for the ROIL service. They are content based files that are distributed by third parties. They are mostly RSS files, which are text files that provide information in a computer readable format. ROIL collects RSS feeds from websites and other content creators, such as podcasts and YouTube channels. These items then appear in your ROIL Scroll.
 
-## As a creator, how do I make my content available on ROIL?
+## I am a creator. How do I claim my feed?
 
-Go to ROIL, click on the “Follow” tab, and paste the web URL for your page into the search box.  If your hosting environment supports RSS (which it likely does), ROIL should discover your page, and display its feed.  From that point on, any ROIL user will be able to follow you.
+You may claim a feed, which is a process where you notify us that you own/control a feed, and then either (1) grant us additional permissions in using the feed, or (2) instruct us to remove the feed from ROIL. 
 
-## Why are some ROIL items incomplete or unreliable?
+After making a claim on a feed, you must verify ownership/control in one of two ways: (1) by inserting a token we provide (random string) into the feed temporarily, or (2) receiving an email at an email address designated in the feed.
 
-ROIL uses the metaphor of a telescope as a reminder that the content we show is not under our control.  Instead, we receive summaries from other sources on the web.  The choice of what those summaries contain is up to these outside sources.  We strive to present the received information in as pleasing/useful a manner as possible, and we try not to recommend items that lack important details.  We are also working to improve web standards in the sharing of such summaries.
+## How do I find feeds that interest me?
 
-## Does Roil take a piece of the advertising revenue from creators?
+To find feeds that you want to receive:
 
-Absolutely not! That is between you and the site where you post your content. ROIL is able to gather data from almost any website, so if you host your own content on a personal website, you keep all of the advertising revenue you generate and your content can still be shown on ROIL.
+*Search*
 
-## Can I leave Roil without losing my list of feed subscriptions?
+- Click on the Feeds > Search tab at the bottom of the page.
+- In the Search box at the top, search for the creator by their name, channel, subreddit, or website. 
+- If ROIL does not find it, then it may not be in our database and the feed will need to be discovered
 
-ROIL uses a technology called “RSS feeds” to gather its content. At any time, you can export the list of feeds you are subscribed to and easily upload them to any other RSS aggregator program.
 
+*Discover*
+- Go to the website you want to follow. For example, if it is a YouTuber, go to the YouTuber’s channel page.
+- Copy the link and paste it into the ROIL search box. Click “Discover”.
+- ROIL will now attempt to find that feed and, if successful, it will appear under “Discovered Feeds.”
+
+After finding the feed you want, click the + button and choose which of your groups you would like to add it to. Content from that creator/website/feed will now start arriving in your “Scroll” tab, or by browsing the group that contains that feed.  You can also view just the contents of that feed by clicking on it.
+
+## What is a Group?
+
+You start, automatically, with a “Favorites” group, where you can add feeds that you like, or save items to return to later.    You can create new groups, which may be (a) completely private, (b) shared among users you invite, or (c) completely public.  You can also save groups created by others (if they are public, or you have been invited).
+
+A group functions not only to collect content, but also to organize discussions in ROIL’s comment section.  
+
+*Content*
+
+- The items you receive in the Scroll tab are based on which groups you have saved, and what content they contain.  You can choose to browse the scroll page within the context of a single group, which means that you will see only content from that group.
+
+*Comments*
+- If you want to comment on an item, you do so in connection with a group, meaning that the same item may have multiple simultaneous discussions, associated with different groups.  ROIL provides a comments “Roundup” view, where you can see all of the comments for a given item, from any group (so long as the group sets those comments to be shown in Roundup).
+
+## Group Roles
+
+Users can have different authorizations over groups.  In your “Favorites” group, you hold the special “HOME” role, which is above all other roles, and cannot be changed.  When you create a group, you receive the “OWNER” role.  You can collaborate to make your group better by inviting additional users. The role authorizations are as follows (each role also includes all the powers of lesser roles):
+
+- Owners: Can invite owners, and invite/remove admins.  The last remaining owner is able to delete the group.  (Typically, the only reason to add another Owner is when the original Owner wishes to resign, and hand the group over to a new Owner.)
+- Admins: Can edit group settings—name, description, etc.—can moderate comments, and can invite/remove Editors.
+- Editors: Can add/remove saved items or feeds to the Group. Can invite/remove Followers (if the Group is private).
+- Followers: Users who have saved the Group. 
+
+## How do I import and export feeds?
+
+You can export your feed subscriptions, in a machine-readable format (an OPML file). Similarly, you can import feed subscriptions from other sources such as feed readers or your YouTube subscriptions.
+
+## Where do I go for more answers?
+
+ROIL’s staff maintains the subreddit [r/RoilRegulars](https://www.reddit.com/r/RoilRegulars/).  Please join us and other ROIL users to discuss ROIL, ask questions, recommend feeds, and collaborate to curate groups.
