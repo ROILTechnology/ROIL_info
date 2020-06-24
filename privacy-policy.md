@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated June 23, 2020. v1.00. Changes will be logged.*
+*Last updated June 24, 2020. v1.00. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal data. 
 
@@ -26,7 +26,7 @@ And now for the full legal text
 
 ## About this Privacy Policy
 
-This privacy policy was set up to let you know what personal data is collected. Personal data is defined in the GDPR, which is the EU Directive for data protection. While we are not based in the EU, we decided to grant all our users these protections. Also, we’ve done our best to adhere to the California Consumer Privacy Act of 2018, and therefore we do not sell your data; and we give you Californian rights even if you do not reside in California.
+This privacy policy was set up to let you know what personal data is collected. Personal data is defined in the GDPR, which is the EU Directive for data protection. While we are not based in the EU, we decided to grant all our users these protections. Also, we’ve done our best to adhere to the California Consumer Privacy Act of 2018, and therefore we do not sell your data; and we give you rights of a California resident, even if you do not reside in California.
 
 ## Who Are We?
 
@@ -72,13 +72,13 @@ You have the right to know what personal data we collect about you and to ensure
 
 #### Right to Withdraw Consent.
 
-You have the right to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing your personal data based on your consent before its withdrawal. Please note that in most cases, withdrawal of your consent would most likely cause us to delete your personal data rather than cease processing. 
+You have the right to withdraw your consent to the processing of your personal data. Exercising this right will not retroactively affect the lawfulness of processing your personal data based on your consent before its withdrawal. Please note that in most cases, withdrawal of your consent would most likely cause us to delete your personal data rather than cease processing.
 
 You have the right to delete your personal data or restrict its processing by ourselves and third parties. We may postpone or deny your request if your personal data is in current use for the purposes for which it was collected or for other legitimate purposes such as compliance with legal obligations.
 
 #### Right of Data Portability.
 
-Where technically feasible, you have the right to ask to transfer your personal data in accordance with your right to data portability. In order to apply for this, please contact us at <notices@roil.com>.
+Where technically feasible, you have the right to ask to transfer your personal data in accordance with your right to data portability. In order to apply for this, please contact us at <notices@roil.com>, and we will process the request within a commercially reasonable time.
 
 #### The Right to Lodge a Complaint
 
@@ -156,9 +156,9 @@ We will retain the Personal Data for as long as we believe that it is accurate a
 
 If you feel or believe that your personal data rights were harmed in any way or form, contact us at <notices@roil.com> using [this form](/word_templates/ROIL_other_notification_form.docx).
 
- and lodge a complaint. Such complaints shall include how and why you believe your persona data rights were harmed, and the required evidence. We will respond to most complaints within 14 days, and shall offer the required remedies.  If you make a request or complaint relative to your account on the service, you may be required to demonstrate that you are, in fact, the owner of the account, either by (a) responding, within the service, to a notification (i.e., demonstrating your ability to log-in), or (b) answering an email sent to an email address designated for the user account.  If you fail to set an account email address, and forget your password, we may be unable to take action, due to your inability to demonstrate ownership of the account.
+ and lodge a complaint. Such complaints shall include how and why you believe your personal data rights were harmed, and the required evidence. We will respond to most complaints within 14 days, and shall offer the required remedies.  If you make a request or complaint relative to your account on the service, you may be required to demonstrate that you are, in fact, the owner of the account, either by (a) responding, within the service, to a notification (i.e., demonstrating your ability to log-in), or (b) answering an email sent to an email address designated for the user account.  If you fail to set an account email address, and forget your password, we may be unable to take action, due to your inability to demonstrate ownership of the account.
 
-In accordance to the Privacy Shield Principles, we will resolve all complaints according to the Privacy Shield and applicable regulations. We also agree to resolve all complaints and deal with disputes with the local data protection authorities.
+In accordance with the Privacy Shield Principles, we will resolve all complaints according to the Privacy Shield and applicable regulations. We also agree to resolve all complaints and deal with disputes with the local data protection authorities.
 
 This section does not limit your right to lodge a complaint with your respective data protection authority or to enter into a binding arbitration with us according to the Privacy Shield.
 
