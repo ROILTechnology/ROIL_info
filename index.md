@@ -28,7 +28,7 @@ Feeds are the basis for the ROIL service. They are content based files that are 
 
 ## I am a creator. How do I claim my feed?
 
-You may claim a feed, which is a process where you notify us that you own/control a feed, and then either (1) grant us additional permissions in using the feed, or (2) instruct us to remove the feed from ROIL. 
+You may claim a feed, which is a process where you notify us that you own/control a feed, and then either (1) grant us additional permissions in using the feed, or (2) instruct us to remove the feed from ROIL.  If you no longer post content to a claimed feed, you can set the feed as "inactive."  This is particularly useful if you have switched the location where you host content.  ROIL facilitates you transferring the followers of your old feed over to your new feed.  Also, if you would prefer to centralize the comments on your content at a location other than ROIL, you can disallow ROIL comments on your feed.
 
 After making a claim on a feed, you must verify ownership/control in one of two ways: (1) by inserting a token we provide (random string) into the feed temporarily, or (2) receiving an email at an email address designated in the feed.
 
