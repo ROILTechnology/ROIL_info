@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated June 24, 2020. v1.00. Changes will be logged.*
+*Last updated June 28, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your rights and obligations in using the ROIL mobile applications and in accessing roil.com (collectively, the "Service"). They are the sole agreement between Roil Technology, LLC, ("ROIL", "we," "us") a Florida (USA) limited liability company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida 33607, yourself, and other users of the Service.  By using the Service, and/or registering for an account on it you agree to these terms and understand that they are binding.  General information about ROIL's Service can be found on our [Understanding ROIL]({% link index.md %}) page.  ROIL also adheres to a [privacy policy]({% link privacy-policy.md %}), which is hereby incorporated by reference.
 
@@ -24,7 +24,9 @@ Among the customizations you may make to a feed once you have confirmed a claim 
 
 The Service enables users to create and administer Groups, which are collections of Feeds, saved Items, and even other Groups.  Groups can be public or private, and can be saved/joined by Users.  It is permitted for a Group to receive payment from third parties, in exchange for placing content into the Group, and therefore causing it to be seen by Users.  If a Group receives such payment, the Group owner/s must designate in the Group configuration that the Group "Includes Promoted Content," and those placing such content into the Group must mark it as "Promoted" (using the '...' button), in order to disclose its promoted nature to Users.
 
-Users who place content into Groups disclaim any legal claims for copyright based on the selection, coordination, or arrangement of the contents of the Group.
+Users arranging Groups recognize that others may copy and reuse (in whole or part) their selection, coordination, or arrangement of content, and they waive any claim against the other for doing so.
+
+The Owners of Groups that allow content not suitable for children (i.e., under 18) must mark such Groups as “18+” in the Group configuration.  As used in these Terms, the User holding the Home role in a Group is considered a Group Owner.  See also, below, **Community Standards**.
 
 ## Use of the Service
 
@@ -40,7 +42,9 @@ Content you provide to the Service ("User Provided Content") is subject to the c
 
 ## Community Standards
 
-ROIL believes strongly in the value of free speech.  We are guided by the philosophy of John Stewart Mill, which observes that censorship harms not only the person who is silenced, but also the entire community by depriving them of the right to hear alternative viewpoints, and to gain insight into the thought processes of their peers.  Nonetheless, ROIL mandates following community guidelines: (1) no illegal content, (2) no sexually suggestive content depicting minors, (3) no pornographic content, (3) no threats, bullying, harassment, explicit racism, or incitement to violence, (4) no disclosure of personal information of another person, (5) no deceptively purporting to be a specific individual who you are not, and (6) no solicitation or facilitation of illegal activity.  Community standards judgements are in ROIL's sole discretion.
+ROIL believes strongly in the value of free speech.  We are guided by the philosophy of John Stewart Mill, which observes that censorship harms not only the person who is silenced, but also the entire community by depriving them of the right to hear alternative viewpoints, and to gain insight into the thought processes of their peers.  Nonetheless, ROIL mandates the following community guidelines: (1) no illegal content, (2) no sexually suggestive content depicting minors, (3) no pornographic content, (3) no threats, bullying, harassment, explicit racism, or incitement to violence, (4) no disclosure of personal information of another person, (5) no deceptively purporting to be a specific individual who you are not, and (6) no solicitation or facilitation of illegal activity.  Community standards judgements are in ROIL's sole discretion.
+
+When participating in groups that are not designated "18+" Users will refrain from content unsuitable for children, such as profanity and nudity.  This applies to comments, as well as to third-party content linked to by the Group.  When a Group adds a Feed, it may be impractical to review all content in that feed, but Group Owners are expected to exercise reasonable diligence.
 
 ## Comments Sections
 
