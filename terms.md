@@ -87,7 +87,7 @@ Any person who knowingly materially misrepresents that material or an activity i
 
 ## Other Notifications
 
-You may find the need to notify ROIL as to other issues, such as violation of Community Standards, or intellectual property violations other than those covered by DMCA 512(c).  To do so, you should use [this form](/word_templates/ROIL_other_notification_form.docx), and the Designated Agent contact information above.  The notification procedures under this section are not intended for, and may not be used for, notice of process for any legal proceeding.  Legal-proceeding notices should be furnished as provided in applicable law.
+You may find the need to notify ROIL as to other issues, such as violation of Community Standards, or intellectual property violations other than those covered by DMCA 512(c).  To do so, you should use [this form](/word_templates/ROIL_other_notification_form.docx), and the Designated Agent contact information above.  Notifications (whether DMCA or other) are not confidential.  The notification procedures under this section are not intended for, and may not be used for, notice of process for any legal proceeding.  Legal-proceeding notices should be furnished as provided in applicable law.
 
 ## Miscellaneous
 
