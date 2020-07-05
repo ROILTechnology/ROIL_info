@@ -42,6 +42,8 @@ Content you provide to the Service ("User Provided Content") is subject to the c
 
 Other users will have some visibility regarding your account, such as their ability to review your comments, and to ascertain whether a user of your username exists.
 
+Through ROIL, users may be able to view, in an embedded player, videos hosted at youtube.com.  In doing so, users agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).
+
 ## Community Standards
 
 ROIL believes strongly in the value of free speech.  We are guided by the philosophy of John Stewart Mill, which observes that censorship harms not only the person who is silenced, but also the entire community by depriving them of the right to hear alternative viewpoints, and to gain insight into the thought processes of their peers.  Nonetheless, ROIL mandates the following community guidelines: (1) no illegal content, (2) no sexually suggestive content depicting minors, (3) no pornographic content, (3) no threats, bullying, harassment, explicit racism, or incitement to violence, (4) no disclosure of personal information of another person, (5) no deceptively purporting to be a specific individual who you are not, and (6) no solicitation or facilitation of illegal activity.  Community standards judgements are in ROIL's sole discretion.
