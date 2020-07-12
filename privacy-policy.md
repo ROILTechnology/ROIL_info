@@ -102,11 +102,14 @@ We acknowledge you have the right to access and change the Personal Data we coll
 
 Additionally, please note that in order to ensure that you have as much control over your Personal Data and other information as possible, you may modify certain parts of your information by yourself in the service.
 
-## Sharing Personal Data with Third Parties
+## Sharing Personal Data with Third Parties and use of Third Party Services
 
 We respect your privacy and will not disclose, share, rent, or sell your Personal Data to any third party, except as disclosed herein.  The sharing of your Personal Data is made upon your specific, explicit request.
 
 In order to operate the service, we need to share your Personal Data with certain third parties. Our hosting provider is Amazon Web Services (“AWS”).  Your data is necessarily shared with AWS, as they provide our infrastructure.  Further, our service links you to third-party content hosts, sometimes through opening third-party content in an Internet browser tab, and sometimes in an embedded form, where the third-party content displays directly on our service.  In both cases, such usage may enable these third parties to collect Personal Data about you, which is outside of our control.
+
+We may make it possible to view videos hosted at youtube.com in an embedded
+player.  As doing this, we use [YouTube API Services](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services), which are governed, in part, by [Google's Privacy Policy](http://www.google.com/policies/privacy).
 
 ## Location of Your Data
 
