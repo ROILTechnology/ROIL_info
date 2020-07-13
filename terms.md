@@ -107,7 +107,7 @@ ROIL has the right to terminate or suspend your use of the Service or to termina
 
 Any notices we are to provide you under these Terms we may provide by either (1) sending you an in-app message, or (2) sending an email to the address (if any) that you provided for your account.  If you set an email address for your ROIL account, then you agree that ROIL may (but is not obligated to) communicate with you, for all purposes, by sending to that email address, and that ROIL is under no obligation to confirm the email address, or confirm receipt of communications to it.
 
-The laws of the state of Florida (without regard to its choice-of-law provisions) shall exclusively govern these Terms and the relationship created by them. Any dispute you may raise against us must be brought solely in the competent courts of Hillsborough County, Florida.  Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where one claimant acts in a representative capacity shall not be brought, nor shall individual proceedings be combined without the consent of all parties.
+The laws of the state of Florida (without regard to its choice-of-law provisions) shall exclusively govern these Terms and the relationship created by them. Any dispute you may raise against us must be brought solely in the competent courts of Hillsborough County, Florida.
 
 Any provision of these Terms which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be deemed replaced with a valid and enforceable provision that as nearly as possible effectuates the provision's intent as expressed in these Terms.
 
