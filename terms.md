@@ -28,14 +28,16 @@ content of links provided to ROIL by them.  Without limiting the foregoing,
 ROIL specifically disclaims any warranties of accuracy, merchantability,
 functionality, reliability, noninfringement, age-appropriateness, or
 inoffensiveness.  Because ROIL does not control the content delivered to it by
-feeds, ROIL must parse these inputs.  ROIL makes no warranty that this parsing
-will be correct.  Further, ROIL makes no warranties as to frequent or
-consistent fetching of data and/or complete or permanent storage.  ROIL may
-facilitate your access to content hosted elsewhere, for example by opening a
-source in a web browser, playing streaming audio or video in an electronic
-media player, or presenting image links in embedded fashion.  You should not
-take such access facilitation to imply that the accessed content is hosted by,
-or licensed to, ROIL.
+feeds, ROIL must parse these inputs.  This parsing involves modifications, such
+as removal of html tags, for purposes including improved user presentation and
+prevention of cyber-security vulnerabilities (such as XSS attacks).  ROIL makes
+no warranty that this parsing will be correct.  Further, ROIL makes no
+warranties as to frequent or consistent fetching of data and/or complete or
+permanent storage.  ROIL may facilitate your access to content hosted
+elsewhere, for example by opening a source in a web browser, playing streaming
+audio or video in an electronic media player, or presenting image links in
+embedded fashion.  You should not take such access facilitation to imply that
+the accessed content is hosted by, or licensed to, ROIL.
 
 If you control a feed (such as an RSS feed), it is possible for you to post
 content to ROIL via that feed.  You agree to not post, by way of feeds or
@@ -87,17 +89,18 @@ By using the Enhanced-display setting for a Feed under your control, you (a)
 direct ROIL to store (including potential modification/redaction for storage,
 at ROIL's discretion), in ROIL's user-accessible database, any and all data
 delivered through the Feed, (b) grant to ROIL a worldwide, non-exclusive,
-royalty-free, sublicenseable and transferable license to use the content of the
+royalty-free, sub-licensable and transferable license to use the content of the
 feed (including reproduction, distribution, display, performance, and creation
-of derivitive works) in connection with ROIL's service and its business,
-including business promotion, and (c) verify that you possess and control all
-intellectual property rights (including copyrights) necessary to grant ROIL the
-foregoing.  As to image URIs conveyed through the Feed, the preceding sentence
-applies to the image/s accessible through those URIs, as if the image/s,
-themselves, had been transmitted through the Feed, except that, as to clause
-(a), you are advised that ROIL's current functionality is to store only the
-URIs (and display their images in embedded fashion), and not the images
-themselves, themselves.  "ROIL's user-accessible database" refers to the
+of derivative works (including abridgement and/or the modification of parsed
+feed content discussed above)) in connection with ROIL's service and its
+business, including business promotion, and (c) verify that you possess and
+control all intellectual property rights (including copyrights) necessary to
+grant ROIL the foregoing.  As to image URIs conveyed through the Feed, the
+preceding sentence applies to the image/s accessible through those URIs, as if
+the image/s, themselves, had been transmitted through the Feed, except that, as
+to clause (a), you are advised that ROIL's current functionality is to store
+only the URIs (and display their images in embedded fashion), and not the
+images themselves, themselves.  "ROIL's user-accessible database" refers to the
 database/s (including any replicas or sharded storage) from which ROIL serves
 to users, through its Service, representations of data obtained by ROIL from
 Feeds.
