@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ROIL Resources 
+title: ROIL Resources
 permalink: /roil_resources/
 ---
 
