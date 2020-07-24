@@ -29,7 +29,7 @@ ROIL specifically disclaims any warranties of accuracy, merchantability,
 functionality, reliability, noninfringement, age-appropriateness, or
 inoffensiveness.  Because ROIL does not control the content delivered to it by
 feeds, ROIL must parse these inputs.  This parsing involves modifications, such
-as removal of html tags, for purposes including improved user presentation and
+as removal of html, for purposes including improved user presentation and
 prevention of cyber-security vulnerabilities (such as XSS attacks).  ROIL makes
 no warranty that this parsing will be correct.  Further, ROIL makes no
 warranties as to frequent or consistent fetching of data and/or complete or
