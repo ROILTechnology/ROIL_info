@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated August 10, 2020. v1.00. Changes will be logged.*
+*Last updated August 12, 2020. v1.00. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -33,7 +33,7 @@ We use industry standard practices to ensure that your data is kept secure, and
 we allow you to exercise your personal data rights granted under the GDPR even
 if you live outside the EU.
 
-You may exercise your legal
+As a US Company, we are Privacy Shield compliant. You may exercise your legal
 rights under this framework; meaning you have the right to review all data
 relating to you, amend it if it is inaccurate, request that we stop processing
 it, request that we delete it, and seek remedies for any breach.
@@ -188,6 +188,10 @@ certain parts of your information by yourself in the service.
 We respect your privacy and will not disclose, share, rent, or sell your
 Personal Data to any third party, except as disclosed herein.  The sharing of
 your Personal Data is made upon your specific, explicit request.
+Notwithstanding anything else in the policy to the contrary, you understand
+that we may be required to disclose personal information in response to lawful
+requests by public authorities, including to meet national security or law
+enforcement requirements (and we shall have no liability for doing so).
 
 In order to operate the service, we need to share your Personal Data with
 certain third parties. Our hosting provider is Amazon Web Services (“AWS”).
@@ -197,6 +201,9 @@ opening third-party content in an Internet browser tab, and sometimes in an
 embedded form, where the third-party content displays directly on our service.
 In both cases, such usage may enable these third parties to collect Personal
 Data about you, which is outside of our control.
+
+Privacy Shield rules govern the circumstances in which we may be held liable
+for the onward transfer of Personal Data to third parties.
 
 ## Location of Your Data
 
@@ -217,10 +224,12 @@ measures.
 
 We will ensure the confidentiality, integrity and availability of your Personal
 Data by Transferring your personal data only to (i) countries approved by the
-European Commission as having adequate data protection laws; and (ii) entities that
+European Commission as having adequate data protection laws; (ii) entities that
 executed standard contracts that have been approved by the European Commission
 and which provide an adequate level of high-quality protection, with the
-recipients of your Personal Data.
+recipients of your Personal Data; and (iii) Transferring your Personal Data to
+organizations that are Privacy Shield Scheme certified, as approved by the
+European Commission.
 
 By submitting your personal data through the service, you acknowledge, and
 agree, in jurisdiction where such consent is required, to such transfer,
@@ -290,10 +299,28 @@ as to resolve disputes or comply with our legal obligations.
 
 ## Complaints and Arbitration.
 
-If you feel or believe that your personal data rights were harmed in any way or
-form, contact us at <notices@roil.com> using [this
-form](/word_templates/ROIL_other_notification_form.docx) and lodge a complaint.
-Such complaints shall include how and why you believe your personal data rights
+In compliance with the Privacy Shield Principles, Roil Technology, LLC commits
+to resolve complaints about our collection or use of your personal information.
+EU individuals with inquiries or complaints regarding our Privacy Shield policy
+should first contact Roil Technology, LLC at:
+
+```
+Roil Technology, LLC
+Jonathan Levy
+1300 N. Westshore Blvd., Ste. 220
+Tampa FL 33607
+notices@roil.com
+```
+
+We ask that you use
+[this form](/word_templates/ROIL_other_notification_form.docx) when submitting
+your complaint.
+
+Roil Technology, LLC has further committed to cooperate with the panel
+established by the EU data protection authorities (DPAs) with regard to
+unresolved Privacy Shield complaints concerning data transferred from the EU.
+
+Privacy complaints should include how and why you believe your personal data rights
 were harmed, and the required evidence. We will respond to most complaints
 within 14 days, and shall offer the required remedies.  If you make a request
 or complaint relative to your account on the service, you may be required to
@@ -304,12 +331,33 @@ designated for the user account.  If you fail to set an account email address,
 and forget your password, we may be unable to take action, due to your
 inability to demonstrate ownership of the account.
 
-This section does not limit your right to lodge a complaint with your
-respective data protection authority or to enter into a binding arbitration
-with us.
+In order to invoke binding arbitration, you are required to (1) raise the
+claimed violation directly with us and afford us an opportunity to resolve the
+issue within the timeframe; (2) make use of the independent recourse mechanism
+under the Privacy Shield Principles, which is at no cost to you; and (3) raise
+the issue through your Data Protection Authority to the Department of Commerce
+and afford the Department of Commerce an opportunity to use best efforts to
+resolve the issue within the timeframes set forth in the Letter from the
+International Trade Administration of the Department of Commerce, at no cost to
+you.
 
 ## Updates to the Privacy Policy
 
 We reserve the right to amend this Privacy Policy at any time; we will provide
 you with updates on any change, and such updates shall not have a retroactive
 effect.
+
+## Privacy Shield
+
+We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S.
+Department of Commerce regarding the collection, use, and retention of personal
+data transferred from the European Union to the United States. We have
+certified to the Department of Commerce that it adheres to the Privacy Shield
+Principles. If there is any conflict between the terms in this privacy policy
+and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification,
+please visit <https://www.privacyshield.gov/>.
+
+The Federal Trade Commission has jurisdiction over our compliance with the
+Privacy Shield.
+
