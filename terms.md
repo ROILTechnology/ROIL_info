@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated July 12, 2020. v1.00. Changes will be logged.*
+*Last updated September 3, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -60,7 +60,7 @@ considered suitable for formal environments.
 ## Claiming Feeds
 
 ROIL provides a process for you to demonstrate control over a feed, and thereby
-obtain certain privileges over the feed in ROIL's system.  You agree to not go
+obtain certain privileges over that feed in ROIL's system.  You agree to not go
 through the feed-claim process unless you are (or are legally entitled to act
 as) the legal owner of the feed.  You agree to not use your privileged control
 of the feed to make any changes to the feed unless you have the full legal
@@ -75,17 +75,17 @@ other.
 
 Among the customizations you may make to a Feed once you have confirmed a claim
 to it are: (1) you may direct ROIL to exclude the feed from its Service, or (2)
-you may choose whether or not to license and direct ROIL to use "Enhanced"
+you may choose whether or not to license and direct ROIL to use an enhanced
 display for the Feed.  UPON FIRST MANAGING YOUR CLAIMED FEED, IT WILL BE
-DEFAULTED INTO ENHANCED DISPLAY, THOUGH YOU MAY OPT-OUT BY ADJUSTING ITS
+DEFAULTED INTO AN ENHANCED DISPLAY, THOUGH YOU MAY OPT-OUT BY ADJUSTING THE
 "DISPLAY STYLE" SETTING.  ROIL's behavior for feeds that do not use Enhanced
 display is to redact the Feed data stored in ROIL's user-accessible database to
 only limited information such as title, publication date, author name, and link
-URL.  By using the Enhanced-display setting, you license and instruct ROIL to
+URL.  By using an enhanced display setting, you license and direct ROIL to
 deviate from this default behavior, and to store additional data in its
 user-accessible database.
 
-By using the Enhanced-display setting for a Feed under your control, you (a)
+By using the "Enhanced" display setting for a Feed under your control, you (a)
 direct ROIL to store (including potential modification/redaction for storage,
 at ROIL's discretion), in ROIL's user-accessible database, any and all data
 delivered through the Feed, (b) grant to ROIL a worldwide, non-exclusive,
@@ -104,6 +104,12 @@ images themselves, themselves.  "ROIL's user-accessible database" refers to the
 database/s (including any replicas or sharded storage) from which ROIL serves
 to users, through its Service, representations of data obtained by ROIL from
 Feeds.
+
+For feeds cooresponding to YouTube.com channels, an additional "Enhanced w/
+embed" display style is available (and is the default setting).  This display
+style is like the "Enhanced" setting (described above), but also licenses and
+directs ROIL to play videos of that feed within ROIL, using an embedded video
+player.
 
 ## Groups
 
