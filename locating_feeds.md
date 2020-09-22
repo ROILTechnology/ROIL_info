@@ -35,7 +35,7 @@ discovered once to be available forever.
 
 You can also **discover** certain feeds without a URL.
 
-* Specify the “Source”, e.g. YouTube, Twitter, Reddit, etc.
+* Specify the “Source”, e.g. YouTube.
 * Type the user name, channel, ID, etc.
 * If the feed doesn’t appear, enter the URL instead (see above).
 

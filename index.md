@@ -6,7 +6,7 @@ permalink: /
 
 ROIL is a better way to enjoy content from across the Internet. Instead of
 browsing from one website to another, ROIL lets you follow many feeds from
-across the web: podcasts, YouTube channels, subreddits, websites/blogs, and
+across the web: podcasts, YouTube channels, websites/blogs, and
 more. It then connects to all this content for you to browse in one place: your
 fun ROIL scroll. ROIL uses a technology called “feeds” (such as RSS) to gather
 the latest content from websites or specific content creators you want to view.
@@ -64,7 +64,7 @@ To find feeds that you want to receive:
 
 - Click on the Feeds > Search tab at the bottom of the page.
 - In the Search box at the top, search for the creator by their name, channel,
-  subreddit, or website.
+  or website.
 - If ROIL does not find it, then it may not be in our database and the feed
   will need to be discovered
 
