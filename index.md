@@ -4,8 +4,6 @@ title: Understanding ROIL
 permalink: /
 ---
 
-(ROIL is a service coming soon.)
-
 ROIL is a better way to enjoy content from across the Internet. Instead of
 browsing from one website to another, ROIL lets you follow many feeds from
 across the web: podcasts, YouTube channels, subreddits, websites/blogs, and
