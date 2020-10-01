@@ -77,53 +77,53 @@ To find feeds that you want to receive:
   under “Discovered Feeds.”
 
 After finding the feed you want, click the + button and choose which of your
-groups you would like to add it to. Content from that creator/website/feed will
-now start arriving in your “Scroll” tab, or by browsing the group that contains
+Fandoms you would like to add it to. Content from that creator/website/feed will
+now start arriving in your “Scroll” tab, or by browsing the Fandom that contains
 that feed.  You can also view just the contents of that feed by clicking on it.
 
-## What is a Group?
+## What is a Fandom?
 
-You start, automatically, with a “Favorites” group, where you can add feeds
-that you like, or save items to return to later.    You can create new groups,
+You start, automatically, with a “Favorites” Fandom, where you can add feeds
+that you like, or save items to return to later.    You can create new Fandoms,
 which may be (a) completely private, (b) shared among users you invite, or (c)
-completely public.  You can also save groups created by others (if they are
+completely public.  You can also save Fandoms created by others (if they are
 public, or you have been invited).
 
-A group functions not only to collect content, but also to organize discussions
+A Fandom functions not only to collect content, but also to organize discussions
 in ROIL’s comment section.
 
 *Content*
 
-- The items you receive in the Scroll tab are based on which groups you have
+- The items you receive in the Scroll tab are based on which Fandoms you have
   saved, and what content they contain.  You can choose to browse the scroll
-  page within the context of a single group, which means that you will see only
-  content from that group.
+  page within the context of a single Fandom, which means that you will see only
+  content from that Fandom.
 
 *Comments*
-- If you want to comment on an item, you do so in connection with a group,
+- If you want to comment on an item, you do so in connection with a Fandom,
   meaning that the same item may have multiple simultaneous discussions,
-  associated with different groups.  ROIL provides a comments “Roundup” view,
-  where you can see all of the comments for a given item, from any group (so long
-  as the group sets those comments to be shown in Roundup).
+  associated with different Fandoms.  ROIL provides a comments “Roundup” view,
+  where you can see all of the comments for a given item, from any Fandom (so long
+  as the Fandom sets those comments to be shown in Roundup).
 
-## Group Roles
+## Fandom Roles
 
-Users can have different authorizations over groups.  In your “Favorites”
-group, you hold the special “HOME” role, which is above all other roles, and
-cannot be changed.  When you create a group, you receive the “OWNER” role.  You
-can collaborate to make your group better by inviting additional users. The
+Users can have different authorizations over Fandoms.  In your “Favorites”
+Fandom, you hold the special “HOME” role, which is above all other roles, and
+cannot be changed.  When you create a Fandom, you receive the “OWNER” role.  You
+can collaborate to make your Fandom better by inviting additional users. The
 role authorizations are as follows (each role also includes all the powers of
 lesser roles):
 
 - Owners: Can invite owners, and invite/remove admins.  The last remaining
-  owner is able to delete the group.  (Typically, the only reason to add
-  another Owner is when the original Owner wishes to resign, and hand the group
+  owner is able to delete the Fandom.  (Typically, the only reason to add
+  another Owner is when the original Owner wishes to resign, and hand the Fandom
   over to a new Owner.)
-- Admins: Can edit group settings—name, description, etc.—can moderate
+- Admins: Can edit Fandom settings—name, description, etc.—can moderate
   comments, and can invite/remove Editors.
-- Editors: Can add/remove saved items or feeds to the Group. Can invite/remove
-  Followers (if the Group is private).
-- Followers: Users who have saved the Group.
+- Editors: Can add/remove saved items or feeds to the Fandom. Can invite/remove
+  Followers (if the Fandom is private).
+- Followers: Users who have saved the Fandom.
 
 ## How do I import and export feeds?
 
@@ -136,4 +136,4 @@ feed readers or your YouTube subscriptions.
 ROIL’s staff maintains the subreddit
 [r/RoilRegulars](https://www.reddit.com/r/RoilRegulars/).  Please join us and
 other ROIL users to discuss ROIL, ask questions, recommend feeds, and
-collaborate to curate groups.
+collaborate to curate Fandoms.

@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated September 3, 2020. v1.00. Changes will be logged.*
+*Last updated October 1, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -111,25 +111,25 @@ style is like the "Enhanced" setting (described above), but also licenses and
 directs ROIL to play videos of that feed within ROIL, using an embedded video
 player.
 
-## Groups
+## Fandoms
 
-The Service enables users to create and administer Groups, which are
-collections of Feeds, saved Items, and even other Groups.  Groups can be public
-or private, and can be saved/joined by Users.  It is permitted for a Group to
+The Service enables users to create and administer Fandoms, which are
+collections of Feeds, saved Items, and even other Fandoms.  Fandoms can be public
+or private, and can be saved/joined by Users.  It is permitted for a Fandom to
 receive payment from third parties, in exchange for placing content into the
-Group, and therefore causing it to be seen by Users.  If a Group receives such
-payment, the Group owner/s must designate in the Group configuration that the
-Group "Includes Promoted Content," and those placing such content into the
-Group must mark it as "Promoted" (using the '...' button), in order to disclose
+Fandom, and therefore causing it to be seen by Users.  If a Fandom receives such
+payment, the Fandom owner/s must designate in the Fandom configuration that the
+Fandom "Includes Promoted Content," and those placing such content into the
+Fandom must mark it as "Promoted" (using the '...' button), in order to disclose
 its promoted nature to Users.
 
-Users arranging Groups recognize that others may copy and reuse (in whole or
+Users arranging Fandoms recognize that others may copy and reuse (in whole or
 part) their selection, coordination, or arrangement of content, and they waive
 any claim against the other for doing so.
 
-The Owners of Groups that allow content not suitable for children (i.e., under
-18) must mark such Groups as “18+” in the Group configuration.  As used in
-these Terms, the User holding the Home role in a Group is considered a Group
+The Owners of Fandoms that allow content not suitable for children (i.e., under
+18) must mark such Fandoms as “18+” in the Fandom configuration.  As used in
+these Terms, the User holding the Home role in a Fandom is considered a Fandom
 Owner.  See also, below, **Community Standards**.
 
 ## Use of the Service
@@ -225,20 +225,20 @@ specific individual who you are not, and (6) no solicitation or facilitation of
 illegal activity.  Community standards judgements are in ROIL's sole
 discretion.
 
-When participating in groups that are not designated "18+" Users will refrain
+When participating in Fandoms that are not designated "18+" Users will refrain
 from content unsuitable for children, such as profanity and nudity.  This
-applies to comments, as well as to third-party content linked to by the Group.
-When a Group adds a Feed, it may be impractical to review all content in that
-feed, but Group Owners are expected to exercise reasonable diligence.
+applies to comments, as well as to third-party content linked to by the Fandom.
+When a Fandom adds a Feed, it may be impractical to review all content in that
+feed, but Fandom Owners are expected to exercise reasonable diligence.
 
 ## Comments Sections
 
 ROIL's comments section is built such that comments take place within the
-context of Groups.  Users holding admin or greater authorizations over a Group
-have the power to moderate the Group's comment section, including removing
-comments, banning users, and locking discussions.  Group admins have the power
+context of Fandoms.  Users holding admin or greater authorizations over a Fandom
+have the power to moderate the Fandom's comment section, including removing
+comments, banning users, and locking discussions.  Fandom admins have the power
 to apply restrictions, in addition to ROIL's Community Standards, in their
-moderation of Group comments.
+moderation of Fandom comments.
 
 ## Changes to the Service, and to these Terms
 
@@ -276,8 +276,8 @@ non-commercial purposes, and not for public display of content.  You agree to
 not interfere with any part of the Service, including disabling it,
 fraudulently engaging with it, or circumventing its restrictions or security
 features.  You agree to not create a false impression of user engagement,
-including by inflating views, likes, dislikes, groups saved, or additions to
-groups, or by paying any party to create such a false impression.  You agree to
+including by inflating views, likes, dislikes, Fandoms saved, or additions to
+Fandoms, or by paying any party to create such a false impression.  You agree to
 not misuse use any of the Service's flagging, reporting or dispute-resolution
 systems.
 
@@ -435,9 +435,9 @@ limited to."
 
 If you register a famous name on ROIL, but do not legitimately speak for that
 famous person/entity, ROIL may terminate the account, or transfer control of
-it.  If you create a public group on ROIL using a common term, but do not, as
-evaluated in ROIL's discretion, adequately maintain it as a public group, ROIL
-reserves the right to change the name of your group, so as to free up the term
+it.  If you create a public Fandom on ROIL using a common term, but do not, as
+evaluated in ROIL's discretion, adequately maintain it as a public Fandom, ROIL
+reserves the right to change the name of your Fandom, so as to free up the term
 to be used otherwise.
 
 In the event that these Terms describe features of the Service that have not
