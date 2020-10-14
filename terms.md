@@ -4,14 +4,15 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated October 1, 2020. v1.00. Changes will be logged.*
+*Last updated October 14, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
-roil.com (collectively, the "Service"). They are the sole agreement between
-Roil Technology, LLC, ("ROIL", "we," "us") a Florida (USA) limited liability
-company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida 33607,
-yourself, and other users of the Service.  By using the Service, and/or
+roil.com (including its subdomains, such as info.roil.com, forum.roil.com,
+and www.roil.com) (collectively, the "Service"). They are the sole agreement
+between Roil Technology, LLC, ("ROIL", "we," "us") a Florida (USA) limited
+liability company, located at 1300 N. Westshore Blvd., Ste. 220, Tampa, Florida
+33607, yourself, and other users of the Service.  By using the Service, and/or
 registering for an account on it you agree to these terms and understand that
 they are binding.  General information about ROIL's Service can be found on our
 [Understanding ROIL]({% link index.md %}) page.  ROIL also adheres to a
@@ -240,6 +241,11 @@ comments, banning users, and locking discussions.  Fandom admins have the power
 to apply restrictions, in addition to ROIL's Community Standards, in their
 moderation of Fandom comments.
 
+## Forum
+
+ROIL hosts a forum at https://forum.roil.com.  Material provided by users in
+the forum is User Provided Content, subject to the terms stated herein.
+
 ## Changes to the Service, and to these Terms
 
 ROIL has the right to alter or discontinue the Service, or any part of it, and
@@ -319,11 +325,17 @@ works at that site. (3) Identification of the material that is claimed to be
 infringing or to be the subject of infringing activity and that is to be
 removed or access to which is to be disabled, and information reasonably
 sufficient to permit the service provider to locate the material. The best way
-to identify content available on the Service is typically to access its
+to identify content available on the Service through the ROIL Mobile
+applications, or at https://roil.com or https://www.roil.com is typically to access its
 "Details" pane, by clicking the item's show-more button (rendered as an
 ellipses (…)), and selecting the "Details" option.  (In the Roundup view of
 comments, select the comment first.)  This will show a pop-up alert, which
-includes the item's unique id within the Service. (4) Information reasonably
+includes the item's unique id within the Service.
+The best way to identify content available at https://forum.roil.com
+is to click on the piece of content, and provide in your notification (a) the
+URL showing in the web browser, (b) a textual copy of the content, and (c) a
+screenshot of the content.
+(4) Information reasonably
 sufficient to permit us to contact you (the complaining party), such as an
 address, telephone number, and, if available, an electronic mail address at
 which you (the complaining party) may be contacted. (5) A statement that you
@@ -433,12 +445,9 @@ rights and remedies which either party possesses at law or in equity.
 As used herein, the term "include" or "including" means "including but not
 limited to."
 
-If you register a famous name on ROIL, but do not legitimately speak for that
-famous person/entity, ROIL may terminate the account, or transfer control of
-it.  If you create a public Fandom on ROIL using a common term, but do not, as
-evaluated in ROIL's discretion, adequately maintain it as a public Fandom, ROIL
-reserves the right to change the name of your Fandom, so as to free up the term
-to be used otherwise.
+ROIL may alter user-assigned names, including lewd or inappropriate names,
+famous names used without the permission of the famous person, and public
+Fandom names occupying common terms
 
 In the event that these Terms describe features of the Service that have not
 been developed yet, or become discontinued, this shall not affect the binding

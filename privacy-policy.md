@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated August 12, 2020. v1.00. Changes will be logged.*
+*Last updated October 14, 2020. v1.00. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -21,9 +21,10 @@ right to use our service anonymously.  Consequently, we do not require
 personally identifiable information in order for you to create an
 account—although it may be required in order for you to use some service
 features.  If you do provide such information (e.g., email address) in your
-account setup, we encrypt this information when stored at rest.  In order to
-further ensure your privacy, traffic between your device and our service is
-encrypted via HTTPS.
+account setup, we encrypt this information when stored at rest.
+(Email encryption does not apply to accounts created at at https://forum.roil.com.)
+In order to further ensure your privacy, traffic between your device and our
+service is encrypted via HTTPS.
 
 We may use third party services to run the service; they have access to some of
 your personal data under a confidentiality obligation. If you play an embedded
@@ -194,8 +195,8 @@ requests by public authorities, including to meet national security or law
 enforcement requirements (and we shall have no liability for doing so).
 
 In order to operate the service, we need to share your Personal Data with
-certain third parties. Our hosting provider is Amazon Web Services (“AWS”).
-Your data is necessarily shared with AWS, as they provide our infrastructure.
+certain third parties. Our hosting providers are Amazon Web Services (“AWS”) and DigitalOcean.
+Your data is necessarily shared with our hosting providers, as they provide our infrastructure.
 Further, our service links you to third-party content hosts, sometimes through
 opening third-party content in an Internet browser tab, and sometimes in an
 embedded form, where the third-party content displays directly on our service.
