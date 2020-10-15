@@ -133,7 +133,7 @@ feed readers or your YouTube subscriptions.
 
 ## Where do I go for more answers?
 
-ROIL’s staff maintains the subreddit
-[r/RoilRegulars](https://www.reddit.com/r/RoilRegulars/).  Please join us and
+ROIL’s staff maintains the
+[ROIL Forum](https://forum.roil.com/).  Please join us and
 other ROIL users to discuss ROIL, ask questions, recommend feeds, and
 collaborate to curate Fandoms.
