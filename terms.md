@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated October 14, 2020. v1.00. Changes will be logged.*
+*Last updated October 22, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -421,6 +421,11 @@ The laws of the state of Florida (without regard to its choice-of-law
 provisions) shall exclusively govern these Terms and the relationship created
 by them. Any dispute you may raise against us must be brought solely in the
 competent courts of Hillsborough County, Florida.
+
+You acknowledge and agree that we are not able to review and monitor the
+content published on the Service, due to its volume, and that the content is
+generally created and controlled by others who are not agents or employees of
+ROIL.
 
 Any provision of these Terms which is prohibited or unenforceable in any
 jurisdiction shall, as to such jurisdiction, be deemed replaced with a valid
