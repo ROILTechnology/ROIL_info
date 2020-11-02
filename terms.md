@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated October 22, 2020. v1.00. Changes will be logged.*
+*Last updated November 2, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -328,7 +328,7 @@ sufficient to permit the service provider to locate the material. The best way
 to identify content available on the Service through the ROIL Mobile
 applications, or at https://roil.com or https://www.roil.com is typically to access its
 "Details" pane, by clicking the item's show-more button (rendered as an
-ellipses (…)), and selecting the "Details" option.  (In the Roundup view of
+ellipses (…)), and selecting the "Details" option (which may be within a "more" sub-menu).  (In the Roundup view of
 comments, select the comment first.)  This will show a pop-up alert, which
 includes the item's unique id within the Service.
 The best way to identify content available at https://forum.roil.com
