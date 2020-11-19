@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated November 2, 2020. v1.00. Changes will be logged.*
+*Last updated November 19, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -204,7 +204,9 @@ Provided Content, ROIL shall have a commercially reasonable time to cease
 allowing access to the content by users, and you understand that ROIL may
 permanently retain copies of your content, but not display or transmit it to
 users.  Your providing content to ROIL shall not give rise to any
-employer/employee relationship between yourself and ROIL.
+employer/employee relationship between yourself and ROIL.  You may choose to
+tag User Provided Content with Hashtags in ROIL's system.  ROIL reserves the
+right to modify or consolidate these Hashtags.
 
 Other users will have some visibility regarding your account, such as their
 ability to review your comments, ascertain whether a user of your username
