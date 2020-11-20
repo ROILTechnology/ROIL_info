@@ -128,8 +128,8 @@ Users arranging Fandoms recognize that others may copy and reuse (in whole or
 part) their selection, coordination, or arrangement of content, and they waive
 any claim against the other for doing so.
 
-The Owners of Fandoms that allow content not suitable for children (i.e., under
-18) must mark such Fandoms as “18+” in the Fandom configuration.  As used in
+The Owners of Fandoms that allow content not suitable for children
+must mark such Fandoms as “NSFW” in the Fandom configuration.  As used in
 these Terms, the User holding the Home role in a Fandom is considered a Fandom
 Owner.  See also, below, **Community Standards**.
 
@@ -228,7 +228,7 @@ specific individual who you are not, and (6) no solicitation or facilitation of
 illegal activity.  Community standards judgements are in ROIL's sole
 discretion.
 
-When participating in Fandoms that are not designated "18+" Users will refrain
+When participating in Fandoms that are not designated "NSFW" Users will refrain
 from content unsuitable for children, such as profanity and nudity.  This
 applies to comments, as well as to third-party content linked to by the Fandom.
 When a Fandom adds a Feed, it may be impractical to review all content in that
