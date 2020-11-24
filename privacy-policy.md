@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated October 14, 2020. v1.00. Changes will be logged.*
+*Last updated November 24, 2020. v1.00. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -195,7 +195,8 @@ requests by public authorities, including to meet national security or law
 enforcement requirements (and we shall have no liability for doing so).
 
 In order to operate the service, we need to share your Personal Data with
-certain third parties. Our hosting providers are Amazon Web Services (“AWS”) and DigitalOcean.
+certain third parties. Our hosting providers are Amazon Web Services (“AWS”), DigitalOcean,
+and the Imgur image-hosting service.
 Your data is necessarily shared with our hosting providers, as they provide our infrastructure.
 Further, our service links you to third-party content hosts, sometimes through
 opening third-party content in an Internet browser tab, and sometimes in an
