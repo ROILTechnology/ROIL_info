@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated November 19, 2020. v1.00. Changes will be logged.*
+*Last updated December 17, 2020. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -123,6 +123,10 @@ payment, the Fandom owner/s must designate in the Fandom configuration that the
 Fandom "Includes Promoted Content," and those placing such content into the
 Fandom must mark it as "Promoted" (using the '...' button), in order to disclose
 its promoted nature to Users.
+
+Every Fandom will be tagged with the usernname of one its owners, which will
+display as "By [username]", or the like--notwithstanding that other users who
+have been granted privileged roles may make changes to the Fandom.
 
 Users arranging Fandoms recognize that others may copy and reuse (in whole or
 part) their selection, coordination, or arrangement of content, and they waive
