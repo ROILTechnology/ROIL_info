@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated December 17, 2020. v1.00. Changes will be logged.*
+*Last updated April 21, 2021. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -216,6 +216,11 @@ Other users will have some visibility regarding your account, such as their
 ability to review your comments, ascertain whether a user of your username
 exists, and ascertain whether a given email address has been used used for a
 user account.
+
+ROIL tabulates and displays user participation points (known in our system as
+"ripples").  ROIL reserves the rights to adjust these scores as necessary, in
+our sole discretion.  For example, to refine the calculation formula, or avert
+users artificially inflating ripples by gaming the system.
 
 ## Community Standards
 
