@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated April 21, 2021. v1.00. Changes will be logged.*
+*Last updated May 29, 2021. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -56,7 +56,11 @@ Content," defined below.  Not Safe For Work ("NSFW") content in your feed
 should be marked, per the standard feed notation,
 `<itunes:explicit>true</itunes:explicit>`.  NSFW content is defined as that
 containing nudity, sexual content, profanity, or other content not generally
-considered suitable for formal environments.
+considered suitable for formal environments.  ROIL allows you to state a
+preference whether to hide NSFW content, but ROIL is not able to assure that
+users who opt out will be free of such content, for numerous reasons, including
+the facts that (a) the designation is inherently subjective, and (b) ROIL relies on
+users to make this designation.
 
 ## Claiming Feeds
 
