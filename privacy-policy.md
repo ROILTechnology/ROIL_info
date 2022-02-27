@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated November 24, 2020. v1.00. Changes will be logged.*
+*Last updated February 27, 2022. v1.00. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -89,6 +89,12 @@ etc is collected and retained according to this policy.
 Additional information that may include your click-stream on the services, your
 activities on the services, including time spent on various screens and
 additional information of a similar nature.
+
+Specifically, your account page offers a "Smart Recommendations" option (which
+is turned on by default).  When this option is active, we record what items you
+view on ROIL, in hopes of learning how to tailor your experience to things most
+interesting to you.  If you turn off "Smart Recommendations," tracking of these
+interactions will be disabled.
 
 While it is not specifically personally identifiable, it may be
 reverse-engineered to be identifiable and therefore is considered personal
