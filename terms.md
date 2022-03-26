@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated May 29, 2021. v1.00. Changes will be logged.*
+*Last updated March 25, 2022. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -181,7 +181,7 @@ well as content that the Service links you to, but that is hosted on another
 computer, unaffiliated with the Service.  Such content may include copyrighted
 material, trademarks, service marks or logos.  Access to such content or
 intellectual property through the Service should not be taken to imply that the
-Service as an affiliation with, ownership of, or license to this intellectual
+Service has an affiliation with, ownership of, or license to this intellectual
 property.  Content is the responsibility of the person or entity that provides
 it to the Service.  ROIL is under no obligation to host or serve content.  You
 may use the Service to access content solely for your personal, non-commercial
