@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated February 27, 2022. v1.00. Changes will be logged.*
+*Last updated July 21, 2022. v1.01. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -38,6 +38,33 @@ As a US Company, we are Privacy Shield compliant. You may exercise your legal
 rights under this framework; meaning you have the right to review all data
 relating to you, amend it if it is inaccurate, request that we stop processing
 it, request that we delete it, and seek remedies for any breach.
+
+Roil Technology, LLC complies with the EU-U.S. Privacy Shield Framework and
+Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of
+Commerce regarding the collection, use, and retention of personal information
+transferred from the European Union and Switzerland to the United States.
+(Your organization name) has certified to the U.S. Department of Commerce that
+it adheres to the Privacy Shield Principles.  If there is any conflict between
+the terms in this privacy policy and the Privacy Shield Principles, the Privacy
+Shield Principles shall govern.  To learn more about the Privacy Shield
+program, and to view our certification, please visit
+https://www.privacyshield.gov/
+
+In compliance with the Privacy Shield Principles, Roil Technology, LLC
+commits to resolve complaints about our collection or use of your personal
+information.  EU and Swiss individuals with inquiries or complaints regarding
+our Privacy Shield policy should first contact Jonathan Levy at:
+
+Roil Technology, LLC
+c/o Jonathan Levy
+1300 N Westshore Blvd. Ste 220
+Tampa FL 33607
+
+Roil Technology, LLC has further committed to cooperate with the panel
+established by the EU data protection authorities (DPAs) and the Swiss Federal
+Data Protection and Information Commissioner (FDPIC) with regard to unresolved
+Privacy Shield complaints concerning data transferred from the EU and
+Switzerland .
 
 Also, we never sell your data or use it for direct marketing purposes.
 
