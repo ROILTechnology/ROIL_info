@@ -4,7 +4,7 @@ title: ROIL Terms of Service
 permalink: /terms/
 ---
 
-*Last updated March 25, 2022. v1.00. Changes will be logged.*
+*Last updated October 31, 2022. v1.00. Changes will be logged.*
 
 These terms of service (the "Terms") are the legal framework that governs your
 rights and obligations in using the ROIL mobile applications and in accessing
@@ -388,10 +388,11 @@ You may find the need to notify ROIL as to other issues, such as violation of
 Community Standards, or intellectual property violations other than those
 covered by DMCA 512(c).  To do so, you should use [this
 form](/word_templates/ROIL_other_notification_form.docx), and the Designated
-Agent contact information above.  Notifications (whether DMCA or other) are not
-confidential.  The notification procedures under this section are not intended
-for, and may not be used for, notice of process for any legal proceeding.
-Legal-proceeding notices should be furnished as provided in applicable law.
+Agent contact information above.  Notifications (or counter-notifications/
+challenges) (whether DMCA or other) are not confidential.  The notification
+procedures under this section are not intended for, and may not be used for,
+notice of process for any legal proceeding.  Legal-proceeding notices should be
+furnished as provided in applicable law.
 
 ## Miscellaneous
 
