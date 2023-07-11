@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-*Last updated July 21, 2022. v1.01. Changes will be logged.*
+*Last updated July 12, 2023. v1.01. Changes will be logged.*
 
 We, at ROIL, respect your privacy and are committed to protecting your personal
 data.
@@ -34,37 +34,12 @@ We use industry standard practices to ensure that your data is kept secure, and
 we allow you to exercise your personal data rights granted under the GDPR even
 if you live outside the EU.
 
-As a US Company, we are Privacy Shield compliant. You may exercise your legal
-rights under this framework; meaning you have the right to review all data
-relating to you, amend it if it is inaccurate, request that we stop processing
-it, request that we delete it, and seek remedies for any breach.
-
-Roil Technology, LLC complies with the EU-U.S. Privacy Shield Framework and
-Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of
-Commerce regarding the collection, use, and retention of personal information
-transferred from the European Union and Switzerland to the United States.
-(Your organization name) has certified to the U.S. Department of Commerce that
-it adheres to the Privacy Shield Principles.  If there is any conflict between
-the terms in this privacy policy and the Privacy Shield Principles, the Privacy
-Shield Principles shall govern.  To learn more about the Privacy Shield
-program, and to view our certification, please visit
-https://www.privacyshield.gov/
-
-In compliance with the Privacy Shield Principles, Roil Technology, LLC
-commits to resolve complaints about our collection or use of your personal
-information.  EU and Swiss individuals with inquiries or complaints regarding
-our Privacy Shield policy should first contact Jonathan Levy at:
+For issues regarding privacy, you may contact:
 
 Roil Technology, LLC
 c/o Jonathan Levy
 1300 N Westshore Blvd. Ste 220
 Tampa FL 33607
-
-Roil Technology, LLC has further committed to cooperate with the panel
-established by the EU data protection authorities (DPAs) and the Swiss Federal
-Data Protection and Information Commissioner (FDPIC) with regard to unresolved
-Privacy Shield complaints concerning data transferred from the EU and
-Switzerland .
 
 Also, we never sell your data or use it for direct marketing purposes.
 
@@ -237,9 +212,6 @@ embedded form, where the third-party content displays directly on our service.
 In both cases, such usage may enable these third parties to collect Personal
 Data about you, which is outside of our control.
 
-Privacy Shield rules govern the circumstances in which we may be held liable
-for the onward transfer of Personal Data to third parties.
-
 ## Location of Your Data
 
 The personal data collected from you, as detailed in this Privacy Policy, may
@@ -256,15 +228,6 @@ accordance with applicable privacy laws, as detailed in this Privacy Policy.
 Such steps include putting in place data transfer agreements or ensuring our
 third-party service providers comply with our data transfer protection
 measures.
-
-We will ensure the confidentiality, integrity and availability of your Personal
-Data by Transferring your personal data only to (i) countries approved by the
-European Commission as having adequate data protection laws; (ii) entities that
-executed standard contracts that have been approved by the European Commission
-and which provide an adequate level of high-quality protection, with the
-recipients of your Personal Data; and (iii) Transferring your Personal Data to
-organizations that are Privacy Shield Scheme certified, as approved by the
-European Commission.
 
 By submitting your personal data through the service, you acknowledge, and
 agree, in jurisdiction where such consent is required, to such transfer,
@@ -334,10 +297,10 @@ as to resolve disputes or comply with our legal obligations.
 
 ## Complaints and Arbitration.
 
-In compliance with the Privacy Shield Principles, Roil Technology, LLC commits
-to resolve complaints about our collection or use of your personal information.
-EU individuals with inquiries or complaints regarding our Privacy Shield policy
-should first contact Roil Technology, LLC at:
+For any complaints, we ask that you use
+[this form](/word_templates/ROIL_other_notification_form.docx).
+
+And mail it to:
 
 ```
 Roil Technology, LLC
@@ -346,14 +309,6 @@ Jonathan Levy
 Tampa FL 33607
 notices@roil.com
 ```
-
-We ask that you use
-[this form](/word_templates/ROIL_other_notification_form.docx) when submitting
-your complaint.
-
-Roil Technology, LLC has further committed to cooperate with the panel
-established by the EU data protection authorities (DPAs) with regard to
-unresolved Privacy Shield complaints concerning data transferred from the EU.
 
 Privacy complaints should include how and why you believe your personal data rights
 were harmed, and the required evidence. We will respond to most complaints
@@ -366,33 +321,8 @@ designated for the user account.  If you fail to set an account email address,
 and forget your password, we may be unable to take action, due to your
 inability to demonstrate ownership of the account.
 
-In order to invoke binding arbitration, you are required to (1) raise the
-claimed violation directly with us and afford us an opportunity to resolve the
-issue within the timeframe; (2) make use of the independent recourse mechanism
-under the Privacy Shield Principles, which is at no cost to you; and (3) raise
-the issue through your Data Protection Authority to the Department of Commerce
-and afford the Department of Commerce an opportunity to use best efforts to
-resolve the issue within the timeframes set forth in the Letter from the
-International Trade Administration of the Department of Commerce, at no cost to
-you.
-
 ## Updates to the Privacy Policy
 
 We reserve the right to amend this Privacy Policy at any time; we will provide
 you with updates on any change, and such updates shall not have a retroactive
 effect.
-
-## Privacy Shield
-
-We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S.
-Department of Commerce regarding the collection, use, and retention of personal
-data transferred from the European Union to the United States. We have
-certified to the Department of Commerce that it adheres to the Privacy Shield
-Principles. If there is any conflict between the terms in this privacy policy
-and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
-To learn more about the Privacy Shield program, and to view our certification,
-please visit <https://www.privacyshield.gov/>.
-
-The Federal Trade Commission has jurisdiction over our compliance with the
-Privacy Shield.
-
